@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\bin\Debug\net8.0\ImdbListesi.exe
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\bin\Debug\net8.0\ImdbListesi.deps.json
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\bin\Debug\net8.0\ImdbListesi.runtimeconfig.json
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\bin\Debug\net8.0\ImdbListesi.dll
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\bin\Debug\net8.0\ImdbListesi.pdb
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\obj\Debug\net8.0\ImdbListesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\obj\Debug\net8.0\ImdbListesi.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\obj\Debug\net8.0\ImdbListesi.AssemblyInfo.cs
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\obj\Debug\net8.0\ImdbListesi.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\obj\Debug\net8.0\ImdbListesi.dll
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\obj\Debug\net8.0\refint\ImdbListesi.dll
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\obj\Debug\net8.0\ImdbListesi.pdb
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\obj\Debug\net8.0\ImdbListesi.genruntimeconfig.cache
+D:\Yazılım\Repository\ImdbListesi\ImdbListesi\obj\Debug\net8.0\ref\ImdbListesi.dll
